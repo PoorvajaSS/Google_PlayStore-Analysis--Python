@@ -3,17 +3,14 @@
 # Introduction
 
 Google Play Store or formerly Android Market, is a digital distribution service developed and operated by Google. It is an official apps store that provides variety content such as apps, books, magazines, music, movies and television programs. It serves an as platform to allow users with 'Google certified' Android operating system devices to donwload applications developed and published on the platform either with a charge or free of cost. With the rapidly growth of Android devices and apps, it would be interesting to perform data analysis on the data to obtain valuable insights.
-
 The dataset that is going to be used is 'Google Play Store Apps' from Kaggle. It contains 10k of web scraped Play Store apps data for analysing the Android market. The tools that are going to be used for this EDA would be numpy, pandas, matplotlib and seaborn
 
 # Problem statement. 
 
 1) Today, 1.85 million different apps are available for users to download. 
-2) Android users have even more from which to choose, with 2.56 million 
-    available through the Google Play Store. 
+2) Android users have even more from which to choose, with 2.56 million available through the Google Play Store. 
 3) These apps have come to play a huge role in the way we live our lives today. 
-4) Our Objective is to find the Most Popular Category, find the App with largest number
-    of installs , the App with largest size etc.
+4) Our Objective is to find the Most Popular Category, find the App with largest number of installs , the App with largest size etc.
 
 
  # Feature Information
@@ -51,26 +48,15 @@ In this section, we will be loading the Google Store Apps data stored in csv usi
 
 # Insights 
 
-Rating and Year is left skewed while Reviews, Size, Installs and Price are right skewed. Most of the apps are free in playstore.
-
-The apps Content Rating indicates that it is suitable for all audiences and mostly targeted to everyone.
-
-The most popular top 3 categories in the playstore are Family , Game ,  Tools.
-
-Beatuty,comics,arts and weather kinds of apps are very less in playstore.
-
-Family category has the most number of apps with 18.75% , followed by Games category which has 10.83% of the apps.
-
-Least number of apps belong to the Beauty category with less than 1% of the total apps belonging to it.
-
-Out of all the categories "GAME" has the most number of Installations. 
-
-With almost 35 Billion Installations GAME is the most popular Category in Google App store.
-
-Top 5 apps highest installed for category Game are Subway Surfers , Temple Run 2 , Candy Crush Saga , Pou , My Talking Tom.
-
-Most popular for game is Subway Surfers ,for communication app is Hangouts , for productivity app is Google Drive ,for social app is Instagram.
-
-There are 271 rows where Rating is 5.0 apps on Google Play store.
-
-There are 50 installations for app 'CricQuick' from 'SPORTS' Category.
+1. Rating and Year is left skewed while Reviews, Size, Installs and Price are right skewed. Most of the apps are free in playstore.
+2. The apps Content Rating indicates that it is suitable for all audiences and mostly targeted to everyone.
+3. The most popular top 3 categories in the playstore are Family , Game ,  Tools.
+4. Beatuty,comics,arts and weather kinds of apps are very less in playstore.
+5. Family category has the most number of apps with 18.75% , followed by Games category which has 10.83% of the apps.
+6. Least number of apps belong to the Beauty category with less than 1% of the total apps belonging to it.
+7. Out of all the categories "GAME" has the most number of Installations.
+8. With almost 35 Billion Installations GAME is the most popular Category in Google App store.
+9. Top 5 apps highest installed for category Game are Subway Surfers , Temple Run 2 , Candy Crush Saga , Pou , My Talking Tom.
+10. Most popular for game is Subway Surfers ,for communication app is Hangouts , for productivity app is Google Drive ,for social app is Instagram.
+11. There are 271 rows where Rating is 5.0 apps on Google Play store.
+12. There are 50 installations for app 'CricQuick' from 'SPORTS' Category.
