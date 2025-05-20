@@ -52,14 +52,25 @@ In this section, we will be loading the Google Store Apps data stored in csv usi
 # Insights 
 
 Rating and Year is left skewed while Reviews, Size, Installs and Price are right skewed. Most of the apps are free in playstore.
+
 The apps Content Rating indicates that it is suitable for all audiences and mostly targeted to everyone.
+
 The most popular top 3 categories in the playstore are Family , Game ,  Tools.
+
 Beatuty,comics,arts and weather kinds of apps are very less in playstore.
+
 Family category has the most number of apps with 18.75% , followed by Games category which has 10.83% of the apps.
+
 Least number of apps belong to the Beauty category with less than 1% of the total apps belonging to it.
+
 Out of all the categories "GAME" has the most number of Installations. 
+
 With almost 35 Billion Installations GAME is the most popular Category in Google App store.
-Top 5 apps highest installed for category Game are Subway Surfers , Temple Run 2 , Candy Crush Saga , Pou , My Talking Tom
+
+Top 5 apps highest installed for category Game are Subway Surfers , Temple Run 2 , Candy Crush Saga , Pou , My Talking Tom.
+
 Most popular for game is Subway Surfers ,for communication app is Hangouts , for productivity app is Google Drive ,for social app is Instagram.
+
 There are 271 rows where Rating is 5.0 apps on Google Play store.
+
 There are 50 installations for app 'CricQuick' from 'SPORTS' Category.
